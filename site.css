@@ -1,0 +1,35 @@
+
+body {
+  font-family:monospace;
+  font-size: 20px;
+  color: black;
+  background-color: grey;
+  border-style: solid;
+  padding:30px;
+
+
+}
+
+header {
+  border-style: solid;
+
+}
+
+footer {
+  border-style: solid;
+  padding-left: 10px;
+}
+
+main  {
+  border: solid;
+  margin: 15px;
+  padding-left: 10px;
+}
+
+.links {
+  border: solid;
+  margin: 15px;
+  padding-left: 10px;
+  
+
+}

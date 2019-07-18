@@ -1,0 +1,160 @@
+
+/* layout 1     Miles Solorzano and Juan Vargas*/
+
+/*
+body {
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header {
+  order: 1;
+  flex-basis: 100%;
+}
+main {
+  order: 2;
+  flex-basis: 100%;
+}
+
+.navigation {
+  order: 3;
+  flex-basis: 45%;
+}
+
+.links {
+  display: flex;
+  order: 4;
+  flex-basis: 100%;
+  padding-right: 30px;
+  justify-content: flex-end;
+
+}
+
+footer {
+  order: 5;
+  flex-basis: 100%;
+}
+
+*/
+
+/*    Layout 2 */
+/*
+body {
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header {
+  order: 1;
+  flex-basis: 100%;
+}
+main {
+  order: 2;
+  flex-basis: 100%;
+}
+
+.navigation {
+  display: flex;
+  order: 3;
+  flex-basis: 45%;
+  justify-content: flex-end;
+}
+
+
+.links {
+  display: flex;
+  order: 4;
+  flex-basis: 100%;
+  padding-right: 30px;
+  justify-content: flex-end;
+
+}
+
+footer {
+  order: 5;
+  flex-basis: 100%;
+}
+
+
+*/
+
+
+
+/*                                    Layout 3
+header {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.links ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+main h2 {
+  display: flex;
+  justify-content: center;
+}
+
+*/
+
+/* layout 4 */
+
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header {
+  order: 1;
+  width: 90%;
+  flex-basis: 89%;
+}
+
+main {
+  order: 3;
+  width: 30%;
+  flex-basis: 50%;
+}
+
+.navigation {
+  order: 2;
+  width: 40%;
+  flex-basis: 40%;
+}
+
+.links {
+  order: 4;
+  width: 100%;
+  flex-basis: 100%;
+}
+
+footer {
+  order: 5;
+  width: 100%;
+  flex-basis: 100%;
+}
